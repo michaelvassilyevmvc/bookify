@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6F58CBD1-C324-4954-AE74-457A9BF1ACE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6A19AD17-6007-4CB7-A90B-204CB6DCE087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Domain", "Bookify.Domain\Bookify.Domain.csproj", "{5F135377-95CD-4A4A-A0ED-84A1B7D1879F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F135377-95CD-4A4A-A0ED-84A1B7D1879F} = {6F58CBD1-C324-4954-AE74-457A9BF1ACE9}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F135377-95CD-4A4A-A0ED-84A1B7D1879F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F135377-95CD-4A4A-A0ED-84A1B7D1879F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F135377-95CD-4A4A-A0ED-84A1B7D1879F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F135377-95CD-4A4A-A0ED-84A1B7D1879F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
